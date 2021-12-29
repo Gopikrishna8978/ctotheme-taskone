@@ -1,0 +1,206 @@
+.nav-item
+{
+    
+    padding-top: 10px;
+   
+}
+.d-block 
+{
+    height: 500px;
+
+}
+.third-section
+{
+    background-color: rgb(53, 53, 233);
+    height: 120px;
+}
+.third-text{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+}
+.third
+{
+    color: white;
+    text-align: center;
+    
+
+}
+.fourth-section
+{
+    background-color: whitesmoke;
+    
+}
+.fourth-text
+{
+    color: black;
+   
+    padding-top: 30px;
+}
+.card2
+{
+   text-align: left;
+   padding-right: 100px;
+}
+#box3
+{
+    background-color: brown;
+    color: white;
+}
+#box4
+{
+    background-color: rgb(12, 207, 233);
+    color: white;
+}
+#box5
+{
+    background-color: rgb(48, 52, 53);
+    color: white;
+}
+
+.about
+{
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 20px;
+}
+
+.lo
+{
+    color: rgb(31, 116, 243);
+    margin-top: 20px;
+    font-size: large;
+}
+.lo1
+{
+    color: rgb(58, 59, 59);
+    margin-top: 20px;
+    font-size: x-small;
+}
+
+.lo2
+{
+  margin-top: 30px;
+}
+
+#fifth-section
+{
+    background-color: rgb(49, 48, 48);
+    margin-top: 30px;
+    padding-bottom: 40px;
+    
+}
+.our
+{
+    color: white;
+    margin-top: 30px;
+    font-size: xx-large;
+}
+
+#symb
+{
+    font-size: 50px;
+    color: white;
+    background-color: orangered;
+    border-radius: 50%;
+    border-color: white;
+   
+    padding: 10px;
+    margin-top: 20px;
+}
+#synmb1
+{
+    margin-top: 30px;
+    color: white;
+    padding-right: 10px;
+
+}
+
+#synmb2
+{
+    margin-top: 30px;
+    color: rgb(194, 189, 189);
+    font-size: x-small;
+
+}
+#synmb3
+{
+    margin-top: 20px;
+    color: white;
+    text-decoration: underline;
+    
+
+}
+#symb1
+{
+    font-size: 50px;
+    color: white;
+    background-color: rgb(29, 185, 190);
+    border-radius: 50%;
+    border-color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+#symb2
+{
+    font-size: 50px;
+    color: white;
+    background-color: rgb(28, 226, 2);
+    border-radius: 50%;
+    border-color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+#symb3
+{
+    font-size: 50px;
+    color: rgb(10, 10, 10);
+    background-color: white;
+    border-radius: 50%;
+    border-color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
+.six
+{
+    padding-top: 40px;
+    font-weight: bold;
+}
+.sixone
+{
+    font-size: small;
+    color: yellowgreen;
+}
+.sixon
+{
+    font-size: small;
+    color: rgb(56, 128, 236);
+}
+#last
+{
+    font-size: 30px;
+    color: blue;
+}
+#last1
+{
+    font-size: 30px;
+    color: gray;
+}
+#last2
+{
+    font-size: 30px;
+    color: gray;
+}
+
+#foot
+{
+    background-color: gray;
+    height: 50px;
+
+}
+.footone
+{
+    padding-top: 10px;
+    
+}
